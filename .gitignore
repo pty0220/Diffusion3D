@@ -1,0 +1,8 @@
+/checkpoint/
+/gridParts/
+
+
+# Ignore pyc files ...
+*.out
+*.pyc
+*.nii
